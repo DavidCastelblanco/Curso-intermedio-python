@@ -1,7 +1,7 @@
 # Curso-intermedio-python
 Archivos, ejercicios y proyectos en python
 
-Las habilidades objetnidas en este curso fueron auqneu no limitadas a las siguientes:
+Las habilidades objetnidas en este curso fueron aunque no limitadas a las siguientes:
 
 -Utiliza list y dictionary comprehensions, y high order functions.
 
